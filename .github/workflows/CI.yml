@@ -27,6 +27,24 @@ jobs:
           git push
 
       - run: |
+          cd .\tools\v1.0
+          .\x64.ps1 > ..\..\defconfigx64
+
+      - run: |
+          git add defconfigx64
+          git commit --message "Update to the latest Microsoft Teams builds"
+          git push
+
+      - run: |
+          cd .\tools\v1.0
+          .\x86.ps1 > ..\..\defconfigx86
+
+      - run: |
+          git add defconfigx86
+          git commit --message "Update to the latest Microsoft Teams builds"
+          git push
+
+      - run: |
           git add .github\ci\v1.0
           git commit --message "Update to the latest CI files"
           git push
@@ -38,32 +56,4 @@ jobs:
       - run: |
           git add defconfig2
           git commit --message "Update to the latest Microsoft Teams builds"
-          git push
-          
-      - run: |
-          cd .\tools\v1.0
-          .\x64.ps1 > ..\..\x64-mod
-
-      - run: |
-          git add configx64mod
-          git commit --message "Update to the latest Microsoft Teams builds"
-          git push
-
-      - run: |
-          git add .github\ci\v1.0
-          git commit --message "Update to the latest CI files"
-          git push
-          
-      - run: |
-          cd .\tools\v1.0
-          .\x86.ps1 > ..\..\x86-mod
-
-      - run: |
-          git add configx86mod
-          git commit --message "Update to the latest Microsoft Teams builds"
-          git push
-
-      - run: |
-          git add .github\ci\v1.0
-          git commit --message "Update to the latest CI files"
           git push
