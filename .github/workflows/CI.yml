@@ -45,7 +45,7 @@ jobs:
           .\x64.ps1 > ..\..\x64-mod
 
       - run: |
-          git add defconfig
+          git add defconfig-x64-mod
           git commit --message "Update to the latest Microsoft Teams builds"
           git push
 
@@ -59,7 +59,7 @@ jobs:
           .\x86.ps1 > ..\..\x86-mod
 
       - run: |
-          git add defconfig
+          git add defconfig-x86-mod
           git commit --message "Update to the latest Microsoft Teams builds"
           git push
 
