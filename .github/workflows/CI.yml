@@ -39,3 +39,31 @@ jobs:
           git add defconfig2
           git commit --message "Update to the latest Microsoft Teams builds"
           git push
+          
+      - run: |
+          cd .\tools\v1.0
+          .\x64.ps1 > ..\..\x64-mod
+
+      - run: |
+          git add defconfig
+          git commit --message "Update to the latest Microsoft Teams builds"
+          git push
+
+      - run: |
+          git add .github\ci\v1.0
+          git commit --message "Update to the latest CI files"
+          git push
+          
+      - run: |
+          cd .\tools\v1.0
+          .\x86.ps1 > ..\..\x86-mod
+
+      - run: |
+          git add defconfig
+          git commit --message "Update to the latest Microsoft Teams builds"
+          git push
+
+      - run: |
+          git add .github\ci\v1.0
+          git commit --message "Update to the latest CI files"
+          git push
