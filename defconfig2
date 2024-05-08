@@ -16,9 +16,9 @@ URLs for the latest Canary (R0) build of Microsoft Teams:
 
   Teams 2.1:
   24128.3300.2862.7357 (win-x64) - published on Tuesday, May 7, 2024 at 5:06 PM with 168 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/24128.3300.2862.7357/MSTeams-x64.msix
-  24128.2800.2862.3142 (win-x86) - published on Tuesday, May 7, 2024 at 2:38 PM with 157 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.2800.2862.3142/MSTeams-x86.msix
+  24128.3300.2862.7357 (win-x86) - published on Tuesday, May 7, 2024 at 5:08 PM with 157 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.3300.2862.7357/MSTeams-x86.msix
   24128.3300.2862.7357 (win-arm64) - published on Tuesday, May 7, 2024 at 5:09 PM with 154 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/24128.3300.2862.7357/MSTeams-arm64.msix
-  24128.3700.2862.5212 (osx-x64 + osx-arm64) - published on Tuesday, May 7, 2024 at 4:12 PM with 288 MB: https://staticsint.teams.cdn.office.net/production-osx/24128.3700.2862.5212/MicrosoftTeams.pkg
+  24128.4000.2862.9453 (osx-x64 + osx-arm64) - published on Tuesday, May 7, 2024 at 6:58 PM with 288 MB: https://staticsint.teams.cdn.office.net/production-osx/24128.4000.2862.9453/MicrosoftTeams.pkg
 
 
 URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
@@ -33,14 +33,14 @@ URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
   1.7.00.3262 (osx-x64 + osx-arm64) - published on Thursday, February 1, 2024 at 5:35 PM with 201 MB: https://staticsint.teams.cdn.office.net/production-osx/1.7.00.3262/Teams_osx.pkg
 
   Teams 2.0:
-  24128.800.2861.2509 (win-x64) - published on Tuesday, May 7, 2024 at 6:10 AM with 155 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/24128.800.2861.2509/MicrosoftTeams-x64.msix
-  24128.800.2861.2509 (win-x86) - published on Tuesday, May 7, 2024 at 6:11 AM with 150 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.800.2861.2509/MicrosoftTeams-x86.msix
-  24128.800.2861.2509 (win-arm64) - published on Tuesday, May 7, 2024 at 6:13 AM with 152 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/24128.800.2861.2509/MicrosoftTeams-arm64.msix
+  24128.3100.2862.5110 (win-x64) - published on Tuesday, May 7, 2024 at 3:31 PM with 155 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/24128.3100.2862.5110/MicrosoftTeams-x64.msix
+  24128.3100.2862.5110 (win-x86) - published on Tuesday, May 7, 2024 at 3:32 PM with 150 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.3100.2862.5110/MicrosoftTeams-x86.msix
+  24128.3100.2862.5110 (win-arm64) - published on Tuesday, May 7, 2024 at 3:33 PM with 152 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/24128.3100.2862.5110/MicrosoftTeams-arm64.msix
 
   Teams 2.1:
-  24128.800.2861.2509 (win-x64) - published on Tuesday, May 7, 2024 at 6:15 AM with 168 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/24128.800.2861.2509/MSTeams-x64.msix
-  24128.800.2861.2509 (win-x86) - published on Tuesday, May 7, 2024 at 6:14 AM with 157 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.800.2861.2509/MSTeams-x86.msix
-  24128.800.2861.2509 (win-arm64) - published on Tuesday, May 7, 2024 at 6:17 AM with 154 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/24128.800.2861.2509/MSTeams-arm64.msix
+  24128.3100.2862.5110 (win-x64) - published on Tuesday, May 7, 2024 at 3:36 PM with 168 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/24128.3100.2862.5110/MSTeams-x64.msix
+  24128.3100.2862.5110 (win-x86) - published on Tuesday, May 7, 2024 at 3:35 PM with 157 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/24128.3100.2862.5110/MSTeams-x86.msix
+  24128.3100.2862.5110 (win-arm64) - published on Tuesday, May 7, 2024 at 3:38 PM with 154 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/24128.3100.2862.5110/MSTeams-arm64.msix
 
 
 URLs for the latest Teams (R1) build of Microsoft Teams:
