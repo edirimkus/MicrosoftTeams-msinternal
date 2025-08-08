@@ -32,9 +32,9 @@ URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
   25168.700.3734.3085 (win-arm64) - published on Tuesday, June 17, 2025 at 8:48 AM with 192 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25168.700.3734.3085/MicrosoftTeams-arm64.msix
 
   Teams 2.1:
-  25220.900.3867.4332 (win-x64) - published on Friday, August 8, 2025 at 8:11 AM with 216 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/25220.900.3867.4332/MSTeams-x64.msix
-  25220.900.3867.4332 (win-x86) - published on Friday, August 8, 2025 at 8:11 AM with 205 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/25220.900.3867.4332/MSTeams-x86.msix
-  25220.900.3867.4332 (win-arm64) - published on Friday, August 8, 2025 at 8:12 AM with 219 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25220.900.3867.4332/MSTeams-arm64.msix
+  25220.1800.3867.9461 (win-x64) - published on Friday, August 8, 2025 at 11:47 AM with 216 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/25220.1800.3867.9461/MSTeams-x64.msix
+  25220.1800.3867.9461 (win-x86) - published on Friday, August 8, 2025 at 11:47 AM with 205 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/25220.1800.3867.9461/MSTeams-x86.msix
+  25220.1800.3867.9461 (win-arm64) - published on Friday, August 8, 2025 at 11:47 AM with 219 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25220.1800.3867.9461/MSTeams-arm64.msix
 
 
 URLs for the latest Teams (R1) build of Microsoft Teams:
@@ -51,7 +51,7 @@ URLs for the latest Teams (R1) build of Microsoft Teams:
   Teams 2.0:
 
   Teams 2.1:
-  25218.2600.3862.8051 (osx-x64 + osx-arm64) - published on Thursday, August 7, 2025 at 12:08 AM with 343 MB: https://staticsint.teams.cdn.office.net/production-osx/25218.2600.3862.8051/MicrosoftTeams.pkg
+  25220.1400.3867.9430 (osx-x64 + osx-arm64) - published on Friday, August 8, 2025 at 11:56 AM with 344 MB: https://staticsint.teams.cdn.office.net/production-osx/25220.1400.3867.9430/MicrosoftTeams.pkg
 
 
 URLs for the latest IT Admins Preview (R1.5 or BETA) build of Microsoft Teams:
