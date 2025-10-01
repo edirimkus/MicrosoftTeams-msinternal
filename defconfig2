@@ -12,7 +12,7 @@ URLs for the latest Canary (R0) build of Microsoft Teams:
   Teams 2.0:
 
   Teams 2.1:
-  25274.900.3996.8970 (osx-x64 + osx-arm64) - published on Wednesday, October 1, 2025 at 10:04 AM with 358 MB: https://staticsint.teams.cdn.office.net/production-osx/25274.900.3996.8970/MicrosoftTeams.pkg
+  25274.1100.3997.3605 (osx-x64 + osx-arm64) - published on Wednesday, October 1, 2025 at 1:01 PM with 358 MB: https://staticsint.teams.cdn.office.net/production-osx/25274.1100.3997.3605/MicrosoftTeams.pkg
 
 
 URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
@@ -32,9 +32,9 @@ URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
   25168.700.3734.3085 (win-arm64) - published on Tuesday, June 17, 2025 at 8:48 AM with 192 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25168.700.3734.3085/MicrosoftTeams-arm64.msix
 
   Teams 2.1:
-  25273.1700.3996.1742 (win-x64) - published on Wednesday, October 1, 2025 at 2:44 AM with 220 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/25273.1700.3996.1742/MSTeams-x64.msix
-  25273.1700.3996.1742 (win-x86) - published on Wednesday, October 1, 2025 at 2:44 AM with 208 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/25273.1700.3996.1742/MSTeams-x86.msix
-  25273.1700.3996.1742 (win-arm64) - published on Wednesday, October 1, 2025 at 2:44 AM with 222 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25273.1700.3996.1742/MSTeams-arm64.msix
+  25274.800.3996.7919 (win-x64) - published on Wednesday, October 1, 2025 at 8:52 AM with 220 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/25274.800.3996.7919/MSTeams-x64.msix
+  25274.800.3996.7919 (win-x86) - published on Wednesday, October 1, 2025 at 8:52 AM with 208 MB: https://staticsint.teams.cdn.office.net/production-windows-x86/25274.800.3996.7919/MSTeams-x86.msix
+  25274.800.3996.7919 (win-arm64) - published on Wednesday, October 1, 2025 at 8:52 AM with 222 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/25274.800.3996.7919/MSTeams-arm64.msix
 
 
 URLs for the latest Teams (R1) build of Microsoft Teams:
