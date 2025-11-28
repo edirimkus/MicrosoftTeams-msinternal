@@ -7,7 +7,7 @@ URLs for the latest Canary (R0) build of Microsoft Teams:
   1.8.00.19052 (win-x86) - published on Wednesday, July 9, 2025 at 10:53 AM with 149 MB: https://staticsint.teams.cdn.office.net/production-windows/1.8.00.19052/Teams_windows.msi
   1.8.00.19052 (win-arm64) - published on Wednesday, July 9, 2025 at 10:55 AM with 155 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.8.00.19052/Teams_windows_arm64.exe
   1.8.00.19052 (win-arm64) - published on Wednesday, July 9, 2025 at 10:55 AM with 157 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.8.00.19052/Teams_windows_arm64.msi
-  1.8.00.33062 (osx-x64 + osx-arm64) - published on Wednesday, November 26, 2025 at 11:32 PM with 226 MB: https://staticsint.teams.cdn.office.net/production-osx/1.8.00.33062/Teams_osx.pkg
+  1.8.00.33252 (osx-x64 + osx-arm64) - published on Friday, November 28, 2025 at 3:38 AM with 226 MB: https://staticsint.teams.cdn.office.net/production-osx/1.8.00.33252/Teams_osx.pkg
 
   Teams 2.0:
 
@@ -51,7 +51,7 @@ URLs for the latest Teams (R1) build of Microsoft Teams:
   Teams 2.0:
 
   Teams 2.1:
-  25331.900.4147.3754 (osx-x64 + osx-arm64) - published on Thursday, November 27, 2025 at 5:01 PM with 397 MB: https://staticsint.teams.cdn.office.net/production-osx/25331.900.4147.3754/MicrosoftTeams.pkg
+  25331.1100.4147.9191 (osx-x64 + osx-arm64) - published on Friday, November 28, 2025 at 2:09 AM with 397 MB: https://staticsint.teams.cdn.office.net/production-osx/25331.1100.4147.9191/MicrosoftTeams.pkg
 
 
 URLs for the latest IT Admins Preview (R1.5 or BETA) build of Microsoft Teams:
